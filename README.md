@@ -1,16 +1,33 @@
-## Hi there 👋
 
-<!--
-**joseibara8/joseibara8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hola, soy jose
 
-Here are some ideas to get you started:
+### full stack Developer · Mazatlan, MX 🇲🇽
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Construyo paginas backend y frontend 
+
+· [LinkedIn](https://www.linkedin.com/in/jose-benjam%C3%ADn-ibarra-sanchez-324687318/) · [Email](alogaruso@gmail.com) 
+
+---
+
+### Stack
+
+![Stack](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,express,react,next,angular&theme=dark)
+
+También: java · c#
+
+---
+
+### Projects
+
+| Proyecto | Qué es | Stack |
+|---|---|---|
+| todo list| es un todo list que permite agregar borrar archivar restaurar notas que son editables tambien cuenta con inicio de session y registro en base de datos | Js · html · css · express · node · mysql |
+
+---
+
+
+
+![snake](https://raw.githubusercontent.com/Juanrz24/Juanrz24/output/snake-dark.svg)
+
+
+## ![GitHub Stats Card](https://ghstats.dev/api/card?username=joseibara8&theme=gruvbox&border_radius=22)
