@@ -25,9 +25,4 @@ También: java · c#
 
 ---
 
-
-
-![snake](https://raw.githubusercontent.com/Juanrz24/Juanrz24/output/snake-dark.svg)
-
-
 ## ![GitHub Stats Card](https://ghstats.dev/api/card?username=joseibara8&theme=gruvbox&border_radius=22)
