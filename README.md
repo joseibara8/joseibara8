@@ -13,7 +13,7 @@ Construyo paginas backend y frontend
 
 ![Stack](https://skillicons.dev/icons?i=js,html,css,mysql,nodejs,express,postgres,next,react&theme=dark)
 
-También: java · c#
+
 
 ---
 
